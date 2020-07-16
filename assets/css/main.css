@@ -3897,3 +3897,6 @@ input, select, textarea {
 			}
 
 		}
+.sideBarHide{
+	display:none;
+}
